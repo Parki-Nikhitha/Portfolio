@@ -1,0 +1,4 @@
+document.getElementById("contact-form").addEventListener("submit", function (e) {
+    e.preventDefault();
+    // Add code to handle form submission (e.g., sending an email or displaying a confirmation message).
+});
